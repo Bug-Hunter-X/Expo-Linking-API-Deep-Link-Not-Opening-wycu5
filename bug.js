@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Linking` API to handle deep links.  The app might not register the deep link correctly, leading to the URL not being opened within the app. This often happens due to improper configuration of the `scheme` or incorrect handling of the `Linking.addEventListener` function.
